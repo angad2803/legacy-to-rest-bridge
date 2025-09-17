@@ -1,0 +1,21 @@
+# Node.js dependencies
+REST_api/node_modules/
+
+# Compiled C++ binaries
+legacy_api/*.exe
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# History or backup files
+.history/
+
+# Environment files
+.env
